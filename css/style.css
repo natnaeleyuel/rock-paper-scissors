@@ -75,7 +75,7 @@ body{
     margin: 0px 120px 0px 155px;
 }
 .pointContent{
-    color: #ffb79a;
+    color: #fff;
     margin-top: 20px;
     padding: 0px 49px 0px 70.5px;
 }
@@ -101,7 +101,7 @@ body{
     margin-top: 180px;
 }
 #result{
-    color: #ffb79a;
+    color: #fff;
     border: 2px solid #ffb79a;
     width: 120px;
     display: inline-block;
